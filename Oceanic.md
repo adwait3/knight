@@ -15,3 +15,10 @@ which said "theoceanisactuallyreallydeeeepp"
 first this clue didnt mean like much and i tried steghide , used a sound visualiser to get the spectogram , the ncame across a spoftware called deep sound , i figured that this was it as the clue said smth abt deep and indeed this was it. i used deepsound with the password "theoceanisreallydeeepp" and found a flag.png file.
 ![Screenshot 2024-01-25 001845](https://github.com/adwait3/knight/assets/148553626/b031c6bb-9672-435b-b516-15be29d0e50f)
 
+![flag](https://github.com/adwait3/knight/assets/148553626/08be1f26-3016-4657-86e2-89797432fff9)
+
+i ran strings on this png file and got the flag.
+
+![Screenshot from 2024-01-25 00-21-39](https://github.com/adwait3/knight/assets/148553626/833fef83-ed5b-49eb-86ef-a1fc6d4c2d2b)
+### FLAG
+KCTF{mul71_l4y3r3d_57360_ec4dacb5}
